@@ -26,4 +26,4 @@ def oee():
     performans=(c*d)/(a-b)
     kalite=e/f
     oee=kullanilabilirlik*performans*kalite*100
-    print("OEE",oee)
+    print("OEE=%",oee)
